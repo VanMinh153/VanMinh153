@@ -1,5 +1,5 @@
 # 💫About Me :
-I am a 3rd year student majoring in HEDSPI - SOICT
+I am a 4rd year student majoring in HEDSPI - HUST
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VanMinh153) 
